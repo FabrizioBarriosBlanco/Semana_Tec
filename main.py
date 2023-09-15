@@ -32,6 +32,7 @@ def draw_circle(start, end):
     circle(radius)
     end_fill()
 
+
 def rectangle(start, end):
     """Draw rectangle from start to end."""
     up()
